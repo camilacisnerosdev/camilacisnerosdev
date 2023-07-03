@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **camilacisneros1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/camilacisnerosdev/](https://www.linkedin.com/in/camilacisnerosdev/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/camilacisnerosdev/]((https://www.linkedin.com/in/camilabelencisneros/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
