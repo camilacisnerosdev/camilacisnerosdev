@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Camila Cisneros</h1>
 <h3 align="center">A passionate frontend developer jr. from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camilacisnerosdev" alt="camilacisnerosdev" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://camilacisnerosdev.github.io/portfolio/](https://camilacisnerosdev.github.io/portfolio/)
 
 - 📫 How to reach me **camilacisneros1@gmail.com**
