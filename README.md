@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camila Cisneros</h1>
-<h3 align="center">A passionate frontend developer jr. from Argentina</h3>
+<h3 align="center">A passionate Software development student from Argentina</h3>
 
 - 👨‍💻 All of my projects are available at [https://camilacisnerosdev.github.io/portfolio/](https://camilacisnerosdev.github.io/portfolio/)
 
