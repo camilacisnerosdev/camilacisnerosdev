@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **camilacisneros1@gmail.com**
 
-- 📄 My Resume/CV [https://drive.google.com/file/d/1ErBePLztciC3CgJ6XfVoso5JcoI-USi6/view)
+- 📄 My Resume/CV [https://drive.google.com/file/d/1pcZV9rfTaYwPW2YgBdRWm8Jga1XALpaU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
