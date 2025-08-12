@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camila Cisneros</h1>
-<h3 align="center">I am a passionate full-stack developer, and I am also pursuing a technical degree in software development</h3>
+<h3 align="center">I am currently pursuing a degree in Technical Systems Analysis</h3>
 
 - 👨‍💻 Porftolio with all of my projects [https://camilacisnerosdev.github.io/portfolio/](https://camilacisnerosdev.github.io/portfolio/)
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **camilacisneros1@gmail.com**
 
-- 📄 My Resume/CV [https://drive.google.com/file/d/1pcZV9rfTaYwPW2YgBdRWm8Jga1XALpaU/view?usp=sharing)
+- 📄 My Resume/CV [https://drive.google.com/file/d/1tFa5e2natKi8vhqwrSCobgYUPSOklMhx/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
